@@ -7,7 +7,7 @@ x86_64으로 다운로드
 Eclipse IDE for Java Developers 선택
 File -> New -> Project
 <img width="1037" height="980" alt="image" src="https://github.com/user-attachments/assets/82f07e11-3440-4338-99bb-afb31e9b7d53" />
-
+Project Name 입력
 <img width="1437" height="1522" alt="image" src="https://github.com/user-attachments/assets/6e5c291d-cf32-452a-b3e9-7cfb7a3eab9c" />
 File -> New -> Class에서 Name입력
 <img width="1918" height="1695" alt="image" src="https://github.com/user-attachments/assets/1759d80a-f87c-4a29-8493-5a457d61093b" />
